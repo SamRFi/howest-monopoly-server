@@ -20,7 +20,6 @@ Welcome to the Howest Monopoly Server project! This server is designed to facili
 - **Multiplayer Support**: Connect with friends and family to play Monopoly remotely.
 - **Real-Time Gameplay**: Experience seamless, real-time interaction with other players.
 - **Comprehensive Game Logic**: Implements all the traditional rules of Monopoly.
-- **User Authentication**: Secure login and user management.
 - **Scalable Architecture**: Designed to handle multiple concurrent games and players.
 
 ## Getting Started
