@@ -1,4 +1,4 @@
-(School Project for Evaluation Purposes)
+This project is a school assignment developed for educational purposes and is not intended for production use.
 
 # Howest Monopoly Server
 
