@@ -4,17 +4,6 @@
 
 Welcome to the Howest Monopoly Server project! This server is designed to facilitate the classic Monopoly board game in a digital format, allowing multiple players to connect, interact, and enjoy the game remotely.
 
-## Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Features
 
 - **Multiplayer Support**: Connect with friends and family to play Monopoly remotely.
